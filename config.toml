@@ -1,0 +1,12 @@
+baseurl = "http://aishraj.com/"
+languageCode = "en-us"
+title = "Aishraj Dahal's homepage"
+author = "Aishraj"
+canonifyurls = true
+
+[params]
+  #search_engine = true
+  #google_analytics_id = ""
+  twitter_username = "aishrajdahal"
+  #disqus_shortname = ""
+
