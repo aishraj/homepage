@@ -6,7 +6,7 @@ canonifyurls = true
 
 [params]
   #search_engine = true
-  #google_analytics_id = ""
+  google_analytics_id = "UA-20524803-3"
   twitter_username = "aishrajdahal"
   #disqus_shortname = ""
 

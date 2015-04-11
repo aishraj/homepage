@@ -11,4 +11,4 @@ I've been programming computers since I was a twelve year old and still do it fo
 
 I believe that technology could be used for the greater good of people and strive hard to build *human friendly software*.
 
-Besides being a programmer, I'm a voracious reader and an avid travller and a foodie.
+Besides being a programmer, I'm a voracious reader, an avid travller and a foodie.
