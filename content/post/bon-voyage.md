@@ -2,7 +2,7 @@
 date = "2015-04-11T16:57:37+05:30"
 draft = false
 title = "Bon voyage"
-tags = ["travel","jagriti yatra","indian railways"]
+tags = ["travel","jagriti-yatra","indian-railways"]
 author = "aishraj"
 +++
 

@@ -7,6 +7,10 @@ canonifyurls = true
 [params]
   #search_engine = true
   google_analytics_id = "UA-20524803-3"
+  mixpanel_id = "a13cc482f469efc9843382f068381967"
   twitter_username = "aishrajdahal"
   #disqus_shortname = ""
+
+[taxonomies]
+  tag = "tags"
 
