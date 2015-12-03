@@ -7,8 +7,8 @@ title = "About me"
 
 My name is Aishraj Dahal. I am full stack developer from Nepal, living in Bangalore, India.
 
-I've been programming computers since I was a twelve year old and still do it for fun and for a living.
+I've been hacking around computers since I was twelve and still do it for fun and for a living.
 
-I believe that technology could be used for the greater good of people and strive hard to build *human friendly software*.
+Whenever I'm not glued to my computer hacking on something interesting, I read, travel and write.
 
-Besides being a programmer, I'm a voracious reader, an avid travller and a foodie.
+In case you'd like to litter my inbox,  send me an email at [first four letters of my name]@[domain].com.
