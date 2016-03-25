@@ -1,16 +1,16 @@
 baseurl = "https://www.aishraj.com"
 languageCode = "en-us"
-title = "Aishraj Dahal's homepage"
-author = "Aishraj"
+title = "On Software and other things"
+author = "Aishraj Dahal"
+copyright = "&copy; Aishraj Dahal. All Rights Reserved."
 canonifyurls = true
 
 [params]
   #search_engine = true
-  google_analytics_id = "UA-20524803-3"
-  mixpanel_id = "a13cc482f469efc9843382f068381967"
-  twitter_username = "aishrajdahal"
-  #disqus_shortname = ""
+  ga_api_key = "UA-20524803-3"
+  twitter = "https://twitter.com/aishrajdahal"
+  github = "https://github.com/aishraj"
+  bio = "I'm Aish, I'm a full stack developer and a distributed systems geek. I like computers, bince computers are lazy stupid machines, so I write code and make these machines do something hopefully useful :)."
 
 [taxonomies]
   tag = "tags"
-

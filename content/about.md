@@ -1,11 +1,11 @@
 +++
 date = "2015-04-11T16:05:15+05:30"
-draft = false
+draft = true 
 title = "About me"
 
 +++
 
-My name is Aishraj Dahal. I am full stack developer from Nepal, living in Bangalore, India.
+My name is Aishraj Dahal. I am full stack developer and a distributed systems nerd.
 
 I've been hacking around computers since I was twelve and still do it for fun and for a living.
 
