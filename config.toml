@@ -10,7 +10,7 @@ canonifyurls = true
   ga_api_key = "UA-20524803-3"
   twitter = "https://twitter.com/aishrajdahal"
   github = "https://github.com/aishraj"
-  bio = "I'm Aish, I'm a full stack developer and a distributed systems geek. I like computers, bince computers are lazy stupid machines, so I write code and make these machines do something hopefully useful :)."
+  bio = "I'm Aish, I'm a full stack developer and a distributed systems geek. You can find on Twitter at @aishrajdahal"
 
 [taxonomies]
   tag = "tags"
