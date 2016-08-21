@@ -2,15 +2,51 @@ baseurl = "https://www.aishraj.com"
 languageCode = "en-us"
 title = "On Software and other things"
 author = "Aishraj Dahal"
-copyright = "&copy; Aishraj Dahal. All Rights Reserved."
 canonifyurls = true
+googleAnalytics = "UA-20524803-3"
+disqusShortname = ""
 
 [params]
-  #search_engine = true
-  ga_api_key = "UA-20524803-3"
-  twitter = "https://twitter.com/aishrajdahal"
-  github = "https://github.com/aishraj"
-  bio = "I'm Aish, I'm a full stack developer and a distributed systems geek. You can find on Twitter at @aishrajdahal"
+  name = "Aishraj Dahal"
+  description = "On software and other things."
+  bio = ""
 
-[taxonomies]
-  tag = "tags"
+  # Enter optionally your twitter account
+  twitter = "aishrajdahal"
+  enableRSS = true
+
+  # Add custom assets with their paths relative to the static folder
+  customCSS = []
+  customJS  = []
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+  home = ""
+  about = ""
+  subscribe = ""
+
+  # Pagination links
+  olderPosts = ""
+  newerPosts = ""
+  readMore = ""
+
+  # Sharing options and author information in posts
+  aboutAuthor = ""
+  tweet = ""
+  share = ""
+
+  # 404 page
+  title404 = "Oops, seems that route does not exist."
+  subtitle404 = "How about trying a different page ?"
+
+  # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+  iconFont = "mono-social"
+  socialIconStyle = "rounded" # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  GravatarHash = "a9f0a49858f056a56a6b7b6307c0e61f"
+
+# Add additional social link entries underneath
+[social]
+  twitter  = "https://www.twitter.com/aishrajdahal"
+  github   = "https://www.github.com/aishraj"

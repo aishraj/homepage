@@ -1,14 +1,12 @@
 +++
 date = "2015-04-11T16:05:15+05:30"
-draft = true 
+draft = false
 title = "About me"
 
 +++
 
-My name is Aishraj Dahal. I am full stack developer and a distributed systems nerd.
+I'm Aish. I'm a software engineer.
 
-I've been hacking around computers since I was twelve and still do it for fun and for a living.
+I like working with distributed sytems, particlarly around applications of consensus (think queues, caches, and databases of all sorts) and proof of work (think Blochain applications).
 
-Whenever I'm not glued to my computer hacking on something interesting, I read, travel and write.
-
-In case you'd like to litter my inbox,  send me an email at [first four letters of my name]@[domain].com.
+You can reach out to me on Twitter at @aishrajdahal.
