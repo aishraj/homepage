@@ -5,6 +5,7 @@ author = "Aishraj Dahal"
 canonifyurls = true
 googleAnalytics = "UA-20524803-3"
 disqusShortname = ""
+theme = "hugo-cactus-theme"
 
 [params]
   name = "Aishraj Dahal"
