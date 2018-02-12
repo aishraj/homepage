@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo --destination=../aishraj.github.io
+~/hugo-alt/hugo --destination=../aishraj.github.io
 # Go To Public folder
 cd ../aishraj.github.io
 # Add changes to git.
