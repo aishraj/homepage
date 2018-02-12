@@ -44,7 +44,7 @@ theme = "hugo-cactus-theme"
 
   # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
   iconFont = "mono-social"
-  socialIconStyle = "rounded" # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = "circle" # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   GravatarHash = "a9f0a49858f056a56a6b7b6307c0e61f"
 
 # Add additional social link entries underneath
