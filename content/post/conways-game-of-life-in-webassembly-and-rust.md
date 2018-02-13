@@ -1,7 +1,7 @@
 ---
 title: "Conway's Game of Life in WebAssembly"
 date: 2018-02-12T06:53:28-08:00
-draft: true
+draft: false
 ---
 
 Recently, after learning that the Rust compiler tool-chain, now supported [WebAssembly](http://webassembly.org/) as a target, I got interested in experimenting with WebAssembly. In order to explore how Rust could be used to write code that compiled to WebAssembly, I decided to implement [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life). My goal was to have as much of the _grid_ traversing logic done in Rust as possible.
