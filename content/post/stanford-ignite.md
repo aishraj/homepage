@@ -1,6 +1,6 @@
 +++
 date = "2015-06-24T09:46:25+05:30"
-draft = false 
+draft = true
 title = "Why I dropped out of Stanford Ignite"
 tags = ["founders","stanford","y-combinator","jagriti-yatra"]
 author = "aishraj"
