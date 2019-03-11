@@ -1,7 +1,7 @@
 ---
 title: "Increasing leakiness"
 date: 2019-03-10T16:37:14-07:00
-draft: true
+draft: false
 ---
 Abstractions are ubiquitous in the implementation of any modern day software system. In fact, they are so universal that popular abstractions like _files_` are part of the not only the programming vocabulary but have found their place in mainstream user experience as well. The utility and ubiquity of abstractions is perhaps made more evident by the fact that the _Fundamental Theorem of Software Engineering'_ which states that, _'We can solve any problem by introducing an extra level of indirection'_.
 
