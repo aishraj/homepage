@@ -1,0 +1,10 @@
+---
+title: "Increasing leakiness"
+date: 2019-03-10T16:37:14-07:00
+draft: true
+---
+Abstractions are ubiquitous in the implementation of any modern day software system. In fact, they are so universal that popular abstractions like _files_` are part of the not only the programming vocabulary but have found their place in mainstream user experience as well. The utility and ubiquity of abstractions is perhaps made more evident by the fact that the _Fundamental Theorem of Software Engineering'_ which states that, _'We can solve any problem by introducing an extra level of indirection'_.
+
+This fondness of abstractions stems from the desire in programmers to shy away from complexity. Complexity is what drives the use and adoption of abstractions. Good abstractions hide away the underlying complexity, enabling the user of the abstraction to achieve what they want without having to worry about the underlying details. On the other hand, overly abstracting away has a negative impact towards complexity of a system. Software implementations that overly abstract away aspects of a system's behavior make it difficult to understand and maintain. Ironically, software systems that do not rely on good abstractions, tend to have similar effect in increasing the overall complexity of the system. This conundrum regarding how much of abstraction is too much and how little is too little is an important one. Both too much and too little abstraction increases the complexity of a system.
+
+While there might be no silver bullet that solves the problem, one potential way of delaying the problem could increasing the amount of [leakiness of an abstraction](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). Such abstractions that are more leaky, hide away only the essential complexity of the underlying system and leave enough room for understanding the system. In turn, they are easier to understand and work with giving the programmer the flexibility of introducing their own leaky abstractions, thereby fulfilling the _Fundamental Theorem of Software Engineering_.
