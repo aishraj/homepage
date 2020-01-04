@@ -1,19 +1,18 @@
 baseurl = "https://blog.aish.io/"
 languageCode = "en-us"
 title = "On Software and other things"
-author = "Aishraj Dahal"
+author = "ऐशराज दाहाल (Aish)"
 canonifyurls = true
 googleAnalytics = "UA-20524803-3"
 disqusShortname = ""
 theme = "hugo-cactus-theme"
 
 [params]
-  name = "Aishraj Dahal"
+  name = "ऐशराज दाहाल (Aish)"
   description = "On software and other things."
   bio = ""
 
   # Enter optionally your twitter account
-  twitter = "aishrajdahal"
   enableRSS = true
 
   # Add custom assets with their paths relative to the static folder
@@ -49,5 +48,4 @@ theme = "hugo-cactus-theme"
 
 # Add additional social link entries underneath
 [social]
-  twitter  = "https://www.twitter.com/aishrajdahal"
   github   = "https://www.github.com/aishraj"
