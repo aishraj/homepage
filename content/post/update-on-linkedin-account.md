@@ -1,7 +1,7 @@
 ---
 title: "An update on having a LinkedIn account"
 date: 2020-01-04T15:50:13-08:00
-draft: true
+draft: false
 ---
 
 Less than four years ago, I wrote a [post](/post/do-you-need-a-linkedin-account/) questioning the need of having a LinkedIn account.
