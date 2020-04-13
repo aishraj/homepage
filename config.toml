@@ -1,16 +1,14 @@
 baseurl = "https://blog.aish.io/"
 languageCode = "en-us"
 title = "On Software and other things"
-author = "ऐशराज दाहाल (Aish)"
+author = "Aish"
 canonifyurls = true
-googleAnalytics = "UA-20524803-3"
-disqusShortname = ""
 theme = "hugo-cactus-theme"
 
 [params]
-  name = "ऐशराज दाहाल (Aish)"
-  description = "On software and other things."
-  bio = ""
+  name = "Train of thoughts"
+  author = "Aish Raj Dahal"
+  description = "A blog by Aish Raj Dahal"
 
   # Enter optionally your twitter account
   enableRSS = true
@@ -47,5 +45,5 @@ theme = "hugo-cactus-theme"
   GravatarHash = "a9f0a49858f056a56a6b7b6307c0e61f"
 
 # Add additional social link entries underneath
-[social]
-  github   = "https://www.github.com/aishraj"
+# [social]
+#   github   = "https://www.github.com/aishraj"
